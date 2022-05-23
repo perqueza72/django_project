@@ -1,0 +1,43 @@
+# Environment
+venv/
+secrets.env
+
+# React
+node_modules/
+package-lock.json
+
+# DLL files
+__pycache_/
+
+# Distros and packages
+build/
+bin/
+dist/
+lib/
+lib64/
+
+# Others
+*.mo
+*.pyc
+*.pyo
+*.code-workspace
+
+
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
